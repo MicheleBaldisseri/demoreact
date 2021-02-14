@@ -6,6 +6,11 @@ module.exports = {  //eslint-disable-line
         ]
     },
     jest: {
-        configure: {  testPathIgnorePatterns: ['node_modules/@saehrimnir/druidjs/dist/druid.js']}
+        configure(config) {
+            config.transformIgnorePatterns = [
+              "/node_modules/@saehrimnir/druidjs/",
+            ];
+            return config;
+          }
     }
 };
