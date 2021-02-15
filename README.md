@@ -3,7 +3,9 @@
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=MicheleBaldisseri_demoreact&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=MicheleBaldisseri_demoreact)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=MicheleBaldisseri_demoreact&metric=ncloc)](https://sonarcloud.io/dashboard?id=MicheleBaldisseri_demoreact)
 
-![CodeBustersLogo](./extra/CodeBsuters.JPG)
+<p align="center">
+  <img src="https://github.com/MicheleBaldisseri/demoreact/tree/master/extra/CodeBusters?raw=true" alt="Sublime's custom image"/>
+</p>
 
 # HD Viz: visualizzazione di dati multidimensionali
 Progetto di Ingegneria del Software (2020-2021) - Gruppo 15
