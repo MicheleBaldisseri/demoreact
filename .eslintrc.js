@@ -18,6 +18,6 @@ module.exports = {
         "react"
     ],
     "rules": {
-        "complexity": ["error",10]
+        "complexity": ["error",5]
     }
 };
