@@ -1,1 +1,1 @@
-![Continuos integration](https://github.com/MicheleBaldisseri/react-project-test/workflows/CI/badge.svg)
+![Continuos integration](https://github.com/MicheleBaldisseri/demoreact/workflows/CI/badge.svg)
