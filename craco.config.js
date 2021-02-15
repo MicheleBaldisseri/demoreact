@@ -3,9 +3,6 @@ module.exports = {  //eslint-disable-line
         plugins: [
             ["@babel/plugin-proposal-class-properties", { "loose": true }],
             ["@babel/plugin-proposal-nullish-coalescing-operator"]
-        ],
-        transformIgnorePatterns: [
-            "node_modules/(?!(@saehrimnir/druidjs)"
-          ]
+        ]
     }
 };
