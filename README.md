@@ -4,7 +4,7 @@
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=MicheleBaldisseri_demoreact&metric=ncloc)](https://sonarcloud.io/dashboard?id=MicheleBaldisseri_demoreact)
 
 <p align="center">
-  <img src="https://github.com/MicheleBaldisseri/demoreact/tree/master/extra/CodeBusters?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/MicheleBaldisseri/demoreact/blob/master/extra/CodeBusters.JPG" alt="CodeBusters logo"/>
 </p>
 
 # HD Viz: visualizzazione di dati multidimensionali
